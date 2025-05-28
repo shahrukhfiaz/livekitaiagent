@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+deepgram-sdk
+openai
+python-dotenv
+twilio
+livekit-api
+livekit
+livekit.agents
+livekit-plugins-openai
