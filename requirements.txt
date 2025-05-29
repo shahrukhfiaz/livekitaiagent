@@ -1,7 +1,7 @@
 fastapi
 uvicorn
 requests
-deepgram-sdk
+deepgram-sdk>=3.0.0
 openai
 python-dotenv
 twilio
@@ -9,3 +9,4 @@ livekit-api
 livekit
 livekit.agents
 livekit-plugins-openai
+aiohttp
